@@ -1,0 +1,75 @@
+.baner_all{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 330px;
+   background:linear-gradient(
+    to left,   
+    #130F26, 
+    #130f2600
+    
+    
+    
+
+   );
+}
+
+/*part 1*/
+
+.baner_all_img-img{
+    height: 327px;
+}
+
+.baner_all_img{
+    height: 327px;
+}
+
+/*part 2 */
+
+.baner_all_right{
+    display: flex;
+    justify-content:space-between ;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 2rem;
+    
+    
+}
+
+.baner_all_right-h1{
+    font-size: 32px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.baner_all_right-p{
+    color:#FFFFFF ;
+    size: 20px;
+    margin-bottom: 2rem;
+}
+
+.baner_all_right-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    width: 160px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background: linear-gradient(
+        to right,
+        #004E8B,
+        #86D4FF
+    );
+    gap: 5px;
+    font-size: 20px;
+
+}
+
+.baner_all_right-btn span{
+    margin-top: 3px;
+
+}

@@ -1,0 +1,14 @@
+.image_items1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+
+
+.image_all{
+    width: 230px;
+}

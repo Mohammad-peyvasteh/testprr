@@ -1,0 +1,102 @@
+.hero_baner{
+    position: relative;
+    background: linear-gradient(
+        to right,
+        #99BBD6,
+        #015699
+    );
+   height: 692px;
+   padding-top: 25px;
+  
+    
+}
+
+.hero-img-dec{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #FFFFFF;
+}
+
+.right-hero-dec{
+    direction: rtl;
+    padding-top: 7rem;
+    padding-right: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.color-def{
+    color: #72FFD5;
+}
+
+.button-click{
+padding-top: 2rem;
+}
+
+
+.btn-button{
+
+    width: 184px;
+    height:55px ;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    color: #015699;
+}
+
+.left-hero-img{
+    padding-top: 7rem;
+    padding-left: 0;
+    display: flex;
+    
+    
+}
+.image-slider{
+    padding-left: 4rem;
+}
+.decription{
+    padding-top: 2rem;
+}
+
+.iconss{
+    padding-right: 8px;
+    
+   
+}
+
+.flash_next{
+    padding-top: 14rem;
+    padding-left: 3rem;
+    
+    font-size: 2rem;
+   
+    
+
+}
+
+.next-f{
+    background: #B2B2B2;
+    border-radius: 100px;
+    color: #FFFFFF;
+}
+
+.flash_back{
+    font-size: 2rem;;
+    
+    
+}
+
+.left{
+    padding-right: 1rem;
+    padding-top: 7rem;
+    padding-left: 4rem;
+    color: #FFFFFF;
+}
+
+.right{
+    padding-right: 0rem;
+    
+}
+

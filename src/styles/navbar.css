@@ -1,0 +1,98 @@
+.navigation{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    position: relative;
+    
+    
+}
+
+.navigation_all{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation_all-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    background: #015699;
+    height: 48px;
+    width: 177px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #FFFFFF;
+    border: none;
+    outline: none;
+}
+
+.navigation_all-btn div{
+    border-right: 1px solid #CCCCCC;
+    height: 20px;
+
+}
+
+.navigation_all-btn-icon{
+    font-size: 1rem;
+
+}
+
+/*part 2*/
+
+.navigation_all-2{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.navigation_all-2-2{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+.navigation_all-2-2div{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    gap: 0.5rem;
+    color: #333333;
+    font-weight: 500;
+}
+.navigation_all-2-2div p{
+
+    font-size: 18px;
+}
+.navigation_all-2-3d{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 0.5rem;
+    color: #333333;
+    font-weight: 500;
+
+}
+
+.navigation_all-2-3d p{
+font-size: 18px;
+}
+
+.navigation_all-2-1{
+    color: #333333;
+    font-weight: 500;
+}
+
+.mega-nav{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+    
+}

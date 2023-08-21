@@ -1,0 +1,123 @@
+.off_colection{
+    padding-top: 7rem;
+    display: flex;
+    justify-content: space-around;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    position: relative;
+    padding-bottom: 5rem;
+}
+
+.left_off{
+    
+    display: flex;
+    justify-content: space-around;
+    height: 301px;
+    border-radius: 10px ;
+    
+    
+}
+
+.right_off{
+    
+    display: flex;
+    justify-content: space-around;
+    height: 301px;
+    border-radius: 10px solid #F5F5F5;
+}
+
+.right2_dec{
+    direction: rtl;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 4rem;
+    padding-right: 2rem;
+}
+
+.right-dec{
+    direction: rtl;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 2rem;
+    padding-right: 2rem;
+}
+
+
+.consolgame{
+    color: #1146C8;
+}
+
+.apple{
+    color: #EC641E;
+}
+
+.decription_p{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: #747474;
+}
+
+.btn_right{
+    
+    width: 124px;
+    height: 47px;
+    border-radius: 41px;
+    outline: none;
+    border: none;
+    background: linear-gradient(
+        to right,
+        #76D2FF,
+        #0181C4
+    );
+    font-size: 20px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+}
+
+.img_2{
+    position: relative;
+    left: 6rem;
+    
+}
+
+
+
+
+.p2_dec{
+    color: #0181C4;
+}
+
+.r-decription{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: #747474;
+}
+
+
+.btn_left{
+    width: 124px;
+    height: 47px;
+    border-radius: 41px;
+    outline: none;
+    border: none;
+    background: linear-gradient(
+        to right,
+        #76D2FF,
+        #0181C4
+    );
+    font-size: 20px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+}
+
+.left2_img{
+    height: 200px;
+}
